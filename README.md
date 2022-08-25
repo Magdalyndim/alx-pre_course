@@ -1,2 +1,2 @@
-My first readme
-The is the first aLX course
+My first readme;
+This is my first github repository from ALX Software Engineering Program
